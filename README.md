@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 welcome to my GitHub!
+
+This public profile has not been active recently as most of my coding has been
+on my employer's internal GitHub instance.
+
+However, please find below some interesting projects I've worked on:
+
 
 <!--
 **gberger/gberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
